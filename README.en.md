@@ -8,9 +8,7 @@
 
 Live upload and download speeds for Windows, with named adapter selection and four visual layouts.
 
-[![Version](https://img.shields.io/badge/version-1.6.2-58cdb6?style=flat-square)](https://github.com/CyberYuno/windhawk-net-speed-adapter/releases/latest)
-[![Windhawk](https://img.shields.io/badge/Windhawk-mod-f2bc78?style=flat-square)](https://windhawk.net/)
-[![License](https://img.shields.io/badge/license-MIT-a9b0bb?style=flat-square)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.6.2-58cdb6?style=flat-square)](https://github.com/CyberYuno/windhawk-net-speed-adapter/releases/latest) [![Windhawk](https://img.shields.io/badge/Windhawk-mod-f2bc78?style=flat-square)](https://windhawk.net/) [![License](https://img.shields.io/badge/license-MIT-a9b0bb?style=flat-square)](LICENSE)
 
 [Install](#install) · [Configure](#configure) · [Changelog](CHANGELOG.md) · [简体中文](README.md)
 

@@ -8,10 +8,7 @@
 
 为 Windows 任务栏添加实时上传 / 下载速度，可指定网卡，保留简洁文字与迷你曲线四种布局。
 
-[![Version](https://img.shields.io/badge/version-1.6.2-58cdb6?style=flat-square)](https://github.com/CyberYuno/windhawk-net-speed-adapter/releases/latest)
-[![Windhawk](https://img.shields.io/badge/Windhawk-mod-f2bc78?style=flat-square)](https://windhawk.net/)
-[![Platform](https://img.shields.io/badge/Windows_11-x64-84b9e8?style=flat-square)](#验证环境)
-[![License](https://img.shields.io/badge/license-MIT-a9b0bb?style=flat-square)](LICENSE)
+[![Version](https://img.shields.io/badge/version-1.6.2-58cdb6?style=flat-square)](https://github.com/CyberYuno/windhawk-net-speed-adapter/releases/latest) [![Windhawk](https://img.shields.io/badge/Windhawk-mod-f2bc78?style=flat-square)](https://windhawk.net/) [![Platform](https://img.shields.io/badge/Windows_11-x64-84b9e8?style=flat-square)](#验证环境) [![License](https://img.shields.io/badge/license-MIT-a9b0bb?style=flat-square)](LICENSE)
 
 [安装](#安装) · [配置](#配置) · [更新记录](CHANGELOG.md) · [English](README.en.md)
 
