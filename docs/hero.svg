@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-labelledby="title desc">
+  <title id="title">Net Speed Adapter</title>
+  <desc id="desc">An illustrated Windows taskbar widget showing download and upload speeds, with a physical Wi-Fi adapter selected.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111e26"/><stop offset="1" stop-color="#182b30"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#54d8b7"/><stop offset="1" stop-color="#9ee4d4"/></linearGradient>
+  </defs>
+  <rect width="1280" height="500" rx="24" fill="url(#bg)"/>
+  <g stroke="#30494e" stroke-width="1" opacity="0.45"><path d="M800 0V500M900 0V500M1000 0V500M1100 0V500M1200 0V500M720 100H1280M720 200H1280M720 300H1280M720 400H1280"/></g>
+  <g font-family="Segoe UI, sans-serif">
+    <rect x="62" y="56" width="172" height="30" rx="15" fill="#253f42"/>
+    <text x="148" y="76" text-anchor="middle" fill="#9ce1ce" font-size="12" font-weight="600" letter-spacing="2">A WINDHAWK MOD</text>
+    <text x="60" y="162" fill="#f4f3eb" font-size="58" font-weight="700" letter-spacing="-2">Net Speed</text>
+    <text x="60" y="228" fill="#65dcbf" font-size="58" font-weight="700" letter-spacing="-2">Adapter.</text>
+    <text x="64" y="282" fill="#bccbc9" font-size="22">Choose the adapter. See the traffic.</text>
+    <text x="64" y="315" fill="#819d9e" font-size="17">Live taskbar speeds for Windows 11.</text>
+    <g font-size="13" font-weight="600"><rect x="64" y="364" width="134" height="35" rx="8" fill="#243d42"/><text x="131" y="387" fill="#b8ded5" text-anchor="middle">NAMED ADAPTER</text><rect x="210" y="364" width="124" height="35" rx="8" fill="#243d42"/><text x="272" y="387" fill="#b8ded5" text-anchor="middle">FOUR LAYOUTS</text><rect x="346" y="364" width="112" height="35" rx="8" fill="#243d42"/><text x="402" y="387" fill="#b8ded5" text-anchor="middle">MIT LICENSE</text></g>
+    <rect x="652" y="109" width="566" height="267" rx="20" fill="#0e181e" stroke="#355359"/>
+    <text x="681" y="148" fill="#8ca6a6" font-size="12" letter-spacing="2">TASKBAR / MINIMAL</text>
+    <circle cx="1179" cy="143" r="5" fill="#65dcbf"/>
+    <rect x="680" y="178" width="510" height="64" rx="12" fill="#223239"/>
+    <text x="700" y="219" fill="#8ee4cf" font-size="25" font-weight="600">↓ 112.8 MB/s</text>
+    <path d="M936 193V228" stroke="#476065"/>
+    <text x="959" y="219" fill="#f1c88f" font-size="25" font-weight="600">↑ 18.4 MB/s</text>
+    <path d="M683 292H1186" stroke="#2c4147"/>
+    <path d="M684 285L713 281L736 288L761 265L786 271L809 244L832 253L854 270L880 251L904 268L930 245L957 263L980 250L1007 263L1035 249L1061 258L1086 246L1112 258L1138 247L1165 256L1186 249" fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="681" y="317" width="67" height="28" rx="6" fill="#24453f"/><text x="714" y="336" text-anchor="middle" fill="#96dec8" font-size="12" font-weight="600">WLAN</text>
+    <text x="763" y="336" fill="#9eb5b4" font-size="13">Physical adapter selected</text>
+    <text x="1185" y="336" text-anchor="end" fill="#69888b" font-size="11">UI ILLUSTRATION</text>
+    <text x="64" y="458" fill="#6c9091" font-size="12" letter-spacing="1">BASED ON NARAYAN'S TASKBAR NETWORK SPEED INDICATOR</text>
+    <text x="1218" y="458" text-anchor="end" fill="#85a9a7" font-size="12" letter-spacing="1">MAINTAINED BY CYBERYUNO</text>
+  </g>
+</svg>
